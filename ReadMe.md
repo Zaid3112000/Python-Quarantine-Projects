@@ -14,6 +14,8 @@ Guys drop your project ideas here one by one we will start workig on it
 
 5. ToDo List App using Android & Java --- Work in Progress
 
+6.Make an app for writers for short stories ,jokes , experience sharing , with followers and star recognition incentives
+
 ## Projects Completed 
 
 1.Wallpapers Script --- Done👍
